@@ -3,12 +3,13 @@
 <p align="center">
   <img
     src="https://media.giphy.com/media/WB0eeXdVJS27S2w66o/giphy.gif"
-    width="320"
+    width="420"
     alt="Project GIF"
   />
 </p>
 
 Годовой проект магистратуры ИИ (ФКН)
+
 Трек: RESEARCH (Инициативная тема)
 
 ## О проекте
